@@ -7,6 +7,5 @@ passionate about automating and exploring low-level computer concepts.
 - Typescript for web dev, and
 - I'm learning Rust for systems programming.
 
-I have experience in Typescript and PHP for web development and enjoy working with DevOps tools like Kubernetes and Terraform. 
+I have experience in Typescript and PHP for web development and enjoy working with DevOps tools like Kubernetes, Terraform, Ansible etc. 
 I believe in constant exploration and collaboration, delivering robust solutions at a sustainable pace. ✨
-
