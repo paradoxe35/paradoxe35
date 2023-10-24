@@ -5,6 +5,6 @@ passionate about automating and exploring low-level computer concepts.
 - I use to work with Golang for system tools,
 - Elixir for distributed apps,
 - Typescript for web dev, and
-- I'm learning Rust for systems programming.
+- I'm learning Rust for fun 😊.
 
 I have experience in Typescript and PHP for web development and enjoy working with DevOps tools like Kubernetes, Terraform, Ansible etc.
